@@ -23,8 +23,3 @@
 - Population Stability Index (PSI)
 - Probability and Bayes' Theorem
 - Central Limit Theorem (CLT)
-
-
-## Author
-Chaitali Raut.
-Data Science Intern — Celebal Technologies
